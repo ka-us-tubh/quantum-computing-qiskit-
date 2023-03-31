@@ -1,10 +1,10 @@
 # Quantum-computing-qiskit-
 I have implement some of important quantum algorithms using Qiskit library proviided by IBM.
 <img src="1_j5FyIQ6TZZDNbp7b2x7xOA.png" class="center">
-<h3>Quantum Teleportation:
+<h3><h2><u>Quantum Teleportation:</u></h2>
 Quantum teleportation is a quantum communication protocol that allows the transmission of quantum information from one location to another, without physically transporting the quantum system itself. It relies on the entanglement of two qubits and the transmission of classical information. The protocol allows the state of a qubit to be transmitted from one location to another without physically sending the qubit itself.
 
-DJ Algorithm:
+ <h2><u>DJ Algorithm:</h2></u>
 The Deutsch-Jozsa algorithm is a quantum algorithm designed to solve a black-box problem. Given a function that takes n-bit binary inputs and produces a single binary output, the algorithm determines whether the function is constant (i.e., it returns the same output for all inputs) or balanced (i.e., it returns a different output for half of the inputs and the same output for the other half). The algorithm uses a quantum computer and can determine the function's nature with a single query, whereas a classical computer would require an average of 2^(n-1)+1 queries to determine the function's nature.
 
 Grover Search Algorithm:
